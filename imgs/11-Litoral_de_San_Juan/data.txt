@@ -1,0 +1,20 @@
+{
+  "name": "Litoral del San Juan",
+  "description": "Litoral del San Juan is a municipality and town in the Chocó Department, Colombia.",
+  "image": "https://example.com/images/litoral_del_san_juan.png",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "11,579 (as of 2018)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "Information not available"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "San Juan River"
+    }
+  ]
+}
+

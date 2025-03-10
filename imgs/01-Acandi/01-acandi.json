@@ -1,0 +1,19 @@
+  {
+    "name": "Acandí",
+    "description": "Acandí is a municipality located in the northern part of the Chocó Department, bordering Panama. It is known for its beautiful beaches and as a nesting site for sea turtles.",
+    "image": "https://ipfs.io/ipfs/bafkreidq2zkeo7mlcredbqu6ao3zccdndnna33mzmoam5upx25oo2rwnii",
+    "attributes": [
+      {
+        "trait_type": "Population",
+        "value": "11,586 (2018)"
+      },
+      {
+        "trait_type": "Founded",
+        "value": "1906"
+      },
+      {
+        "trait_type": "Landmark",
+        "value": "Capurganá Beach"
+      }
+    ]
+  }

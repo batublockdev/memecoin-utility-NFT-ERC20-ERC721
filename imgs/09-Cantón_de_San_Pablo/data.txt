@@ -1,0 +1,19 @@
+{
+  "name": "El Cantón del San Pablo",
+  "description": "El Cantón del San Pablo is a Colombian municipality in the Chocó department, known for its rich cultural heritage and natural resources.",
+  "image": "https://example.com/images/el_canton_del_san_pablo.png",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 7,970 (as of 2015)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "May 23, 1994"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Canal del Cura or Raspadura"
+    }
+  ]
+}

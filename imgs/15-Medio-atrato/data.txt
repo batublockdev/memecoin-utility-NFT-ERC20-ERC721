@@ -1,0 +1,20 @@
+{
+  "name": "Medio Atrato",
+  "description": "Medio Atrato is a municipality in the Chocó Department of Colombia, known for its rich cultural heritage and proximity to the Atrato River.",
+  "image": "https://centralpdet.renovacionterritorio.gov.co/sites/default/files/2021-04/medio_atrato.jpg",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 29,487 (as of 2015)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "1999"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Atrato River"
+    }
+  ]
+}
+

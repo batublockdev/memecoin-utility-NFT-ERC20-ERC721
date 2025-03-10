@@ -1,0 +1,19 @@
+{
+    "name": "Bojayá",
+    "description": "Bojayá is known for its tragic history during the armed conflict in Colombia but has been rebuilding and promoting peace.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bojay%C3%A1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Population",
+        "value": "10,000 (approx.)"
+      },
+      {
+        "trait_type": "Founded",
+        "value": "1958"
+      },
+      {
+        "trait_type": "Landmark",
+        "value": "Bellavista"
+      }
+    ]
+  }

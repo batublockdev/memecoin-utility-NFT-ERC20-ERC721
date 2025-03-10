@@ -1,0 +1,19 @@
+{
+  "name": "Istmina",
+  "description": "Istmina is a municipality and town in the Chocó Department, Colombia, known for its rich history and cultural heritage.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Istmina.jpg",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 11,778 (as of 2015)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "1834"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Atrato River"
+    }
+  ]
+}

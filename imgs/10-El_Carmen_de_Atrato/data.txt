@@ -1,0 +1,19 @@
+{
+  "name": "El Carmen de Atrato",
+  "description": "El Carmen de Atrato is a municipality in the Chocó department of Colombia, known as the birthplace of the Atrato River, which originates from the Cerro del Plateado. The town is characterized by its rich cultural heritage and diverse population.",
+  "image": "https://www.radionacional.co/sites/default/files/styles/image_834x469/public/2021-08/El%20Carmen%20de%20Atrato%20Choco%20Alcaldia%20Municipal.jpg",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 8,000 (as of 2015)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "June 21, 1874"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Cerro del Plateado"
+    }
+  ]
+}

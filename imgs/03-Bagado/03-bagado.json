@@ -1,0 +1,19 @@
+ {
+    "name": "Bagadó",
+    "description": "Bagadó is a municipality known for its Afro-Colombian and indigenous heritage. It is situated in a mountainous region with rich biodiversity.",
+    "image": "https://ipfs.io/ipfs/bafkreicyecln7ho6yb44cvrv7nhxkabzws2rueg5cr2wtmwj77o547nr3i",
+    "attributes": [
+      {
+        "trait_type": "Population",
+        "value": "7,000 (approx.)"
+      },
+      {
+        "trait_type": "Founded",
+        "value": "1850"
+      },
+      {
+        "trait_type": "Landmark",
+        "value": "San José Church"
+      }
+    ]
+  }

@@ -1,0 +1,19 @@
+   {
+    "name": "Alto Baudó",
+    "description": "Alto Baudó is a municipality located along the Baudó River. It is characterized by its dense rainforest and indigenous communities.",
+    "image": "https://ipfs.io/ipfs/bafkreifswlvldvmug3eys5hzyr24hg4jvq3xbh53ziqf5jpylh7koofjwm",
+    "attributes": [
+      {
+        "trait_type": "Population",
+        "value": "15,000 (approx.)"
+      },
+      {
+        "trait_type": "Founded",
+        "value": "1990"
+      },
+      {
+        "trait_type": "Landmark",
+        "value": "Baudó River"
+      }
+    ]
+  }

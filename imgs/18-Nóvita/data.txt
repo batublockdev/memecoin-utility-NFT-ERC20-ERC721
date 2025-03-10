@@ -1,0 +1,19 @@
+{
+  "name": "Nóvita",
+  "description": "Nóvita is a municipality and town in the Chocó Department of Colombia, historically significant as the first capital of Chocó Province and a traditional center for gold mining.",
+  "image": "https://centralpdet.renovacionterritorio.gov.co/sites/default/files/2021-04/novita.jpg",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 7,867"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "Date not specified"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "San Juan River"
+    }
+  ]
+}

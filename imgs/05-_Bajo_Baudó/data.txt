@@ -1,0 +1,19 @@
+ {
+    "name": "Bajo Baudó",
+    "description": "Bajo Baudó is located along the Pacific coast and is known for its mangrove ecosystems and Afro-Colombian culture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bajo_Baud%C3%B3.jpg",
+    "attributes": [
+      {
+        "trait_type": "Population",
+        "value": "12,000 (approx.)"
+      },
+      {
+        "trait_type": "Founded",
+        "value": "1962"
+      },
+      {
+        "trait_type": "Landmark",
+        "value": "Pizarro Port"
+      }
+    ]
+  }

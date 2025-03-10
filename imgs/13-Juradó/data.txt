@@ -1,0 +1,19 @@
+{
+  "name": "Juradó",
+  "description": "Juradó is the northwesternmost municipality and town in the Chocó Department of Colombia, bordering Panama and the Pacific Ocean.",
+  "image": "https://www.radionacional.co/sites/default/files/styles/image_834x469/public/2021-08/Jurado%20Choco%20Alcaldia%20Municipal.jpg",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 3,000 (as of 2021)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "1840"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Pacific coastline"
+    }
+  ]
+}

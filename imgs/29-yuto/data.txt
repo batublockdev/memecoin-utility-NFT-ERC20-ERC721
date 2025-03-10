@@ -1,0 +1,21 @@
+{
+  "name": "Yuto",
+  "description": "Yuto is the municipal seat of El Atrato in the Chocó Department of Colombia, known for its rich cultural heritage and proximity to the Atrato River.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Yuto_Atrato_Choc%C3%B3_Colombia.jpg",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Information not available"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "Information not available"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Atrato River"
+    }
+  ]
+}
+
+

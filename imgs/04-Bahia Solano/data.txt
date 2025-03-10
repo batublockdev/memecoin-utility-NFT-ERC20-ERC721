@@ -1,0 +1,19 @@
+{
+    "name": "Bahía Solano",
+    "description": "Bahía Solano is a coastal municipality known for its stunning beaches and as a prime spot for whale watching.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bah%C3%ADa_Solano.jpg",
+    "attributes": [
+      {
+        "trait_type": "Population",
+        "value": "9,000 (approx.)"
+      },
+      {
+        "trait_type": "Founded",
+        "value": "1935"
+      },
+      {
+        "trait_type": "Landmark",
+        "value": "El Valle Beach"
+      }
+    ]
+  }

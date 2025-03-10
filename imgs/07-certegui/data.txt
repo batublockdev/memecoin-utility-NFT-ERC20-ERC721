@@ -1,0 +1,19 @@
+ {
+    "name": "Cértegui",
+    "description": "Cértegui is a small municipality known for its gold mining history and rich cultural traditions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/C%C3%A9rtegui.jpg",
+    "attributes": [
+      {
+        "trait_type": "Population",
+        "value": "5,000 (approx.)"
+      },
+      {
+        "trait_type": "Founded",
+        "value": "1800"
+      },
+      {
+        "trait_type": "Landmark",
+        "value": "Cértegui River"
+      }
+    ]
+  }

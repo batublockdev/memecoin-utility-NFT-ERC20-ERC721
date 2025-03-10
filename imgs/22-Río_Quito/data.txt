@@ -1,0 +1,19 @@
+{
+  "name": "Río Quito",
+  "description": "Río Quito is a municipality in the Chocó Department of Colombia, with its administrative center in Paimadó. Established in 1999, it is known for its rich cultural heritage and proximity to the Quito River.",
+  "image": "https://www.municipios.com.co/foto/189",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 8,000 (as of 2011)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "April 25, 1999"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Quito River"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Unión Panamericana",
+  "description": "Unión Panamericana is a municipality in the Chocó Department of Colombia, established on July 30, 1999. Its administrative center is the town of Las Ánimas.",
+  "image": "https://choco7dias.com/wp-content/uploads/2020/12/union-panamericana.jpg",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 6,816 (as of 2018)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "July 30, 1999"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Las Ánimas"
+    }
+  ]
+}
+

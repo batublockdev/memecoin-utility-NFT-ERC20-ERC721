@@ -1,0 +1,19 @@
+{
+  "name": "Quibdó",
+  "description": "Quibdó is the capital city of the Chocó Department in Colombia, situated along the Atrato River. It's renowned for its rich Afro-Colombian heritage and vibrant cultural festivals.",
+  "image": "https://www.zonajovencolombia.com/quibdo-choco-una-ciudad-encantadora-por-conocer/",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 129,237 (as of 2020)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "1648"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "San Francisco de Asís Cathedral"
+    }
+  ]
+}

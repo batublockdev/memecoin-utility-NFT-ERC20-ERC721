@@ -1,0 +1,19 @@
+{
+  "name": "San José del Palmar",
+  "description": "San José del Palmar is a municipality and town in the Chocó Department of Colombia, situated 1,288 meters above sea level. Founded on March 19, 1938, it's known for its rich biodiversity and mountainous terrain.",
+  "image": "https://colombiaville.blogspot.com/2011/06/san-jose-del-palmar.html",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 4,768 (as of 2017)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "March 19, 1938"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "La Honda Farm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+ {
+  "name": "Lloró",
+  "description": "Lloró is a municipality and town in the Chocó Department of Colombia, renowned for its significant rainfall and rich cultural heritage.",
+  "image": "https://www.municipios.com.co/foto/820",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 11,197 (as of 2015)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "January 1, 1674"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Atrato River"
+    }
+  ]
+}

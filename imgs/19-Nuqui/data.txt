@@ -1,0 +1,19 @@
+{
+  "name": "Nuquí",
+  "description": "Nuquí is a municipality and town in the Chocó Department of Colombia, nestled between the Baudó mountain range and the Pacific Ocean. It's renowned for its rich cultural diversity, lush rainforests, and pristine beaches.",
+  "image": "https://blog.redbus.co/naturaleza/arusi-bahias-ensenadas-choco/attachment/nuqui-choco-colombia/",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 8,096 (as of 2005)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "1915"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Pacific coastline"
+    }
+  ]
+}

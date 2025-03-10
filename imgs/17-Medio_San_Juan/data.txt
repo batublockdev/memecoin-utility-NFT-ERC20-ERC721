@@ -1,0 +1,19 @@
+{
+  "name": "Medio San Juan",
+  "description": "Medio San Juan is a municipality and town in the Chocó Department of Colombia, known for its rich cultural heritage and proximity to the San Juan River.",
+  "image": "https://choco7dias.com/wp-content/uploads/2022/08/Medio-San-Juan-casas-de-juventud-centro-de-vida-aulas-y-salud.jpg",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 10,579 (as of 2018)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "Information not available"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "San Juan River"
+    }
+  ]
+}

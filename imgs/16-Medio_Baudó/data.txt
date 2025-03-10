@@ -1,0 +1,20 @@
+{
+  "name": "Medio Baudó",
+  "description": "Medio Baudó is a municipality and town in the Chocó Department of Colombia, known for its rich cultural heritage and proximity to the Baudó River.",
+  "image": "https://revistaelcongreso.com/wp-content/uploads/2020/07/medio-baudo.jpg",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 15,109 (as of 2018)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "Information not available"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Baudó River"
+    }
+  ]
+}
+

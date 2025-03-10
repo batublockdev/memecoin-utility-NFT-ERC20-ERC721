@@ -1,0 +1,19 @@
+{
+  "name": "Sipí",
+  "description": "Sipí is a municipality and town in the Chocó Department of Colombia, known for its rich cultural heritage and proximity to the Sipí River.",
+  "image": "https://www.unocha.org/sites/unocha/files/styles/featured_image/public/colombia-inundaciones-en-sip-choc-14-de-enero-2014.jpg",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 2,500 (as of 2018)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "Information not available"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Sipí River"
+    }
+  ]
+}

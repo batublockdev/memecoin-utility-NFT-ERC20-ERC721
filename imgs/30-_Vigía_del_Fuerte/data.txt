@@ -1,0 +1,21 @@
+{
+  "name": "Vigía del Fuerte",
+  "description": "Vigía del Fuerte is a town and municipality in the Choco Department of Colombia, situated on the eastern bank of the Atrato River,  is known for its rich cultural heritage and proximity to the Atrato River.",
+  "image": "https://turismoantioquia.travel/vigia-del-fuerte/",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 9,093 (as of 2018)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "Information not available"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Atrato River"
+    }
+  ]
+}
+
+

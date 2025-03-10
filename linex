@@ -1,0 +1,30 @@
+#!/bin/bash
+# Define the parent directory
+parent_dir="/home/breiner/foundry-f23/Choco/imgs"
+
+# Define the file to edit
+file_path="data.txt"
+
+# Define the word to search for
+target_word="image"
+
+# Define the file containing the new content
+new_content_file="map.txt"
+
+
+# Iterate over each item in the parent directory
+for dir in "$parent_dir"/*/; do
+    # Check if the item is a directory
+    if [ -d "$dir" ]; then
+        # Navigate into the directory
+        cd "$dir" || continue
+        # Check if the 'map' file exists
+        if [ -f "map.svg"  ]; then
+            sed -i -e "/$target_word/r $new_content_file" -e "/$target_word/d" "$file_path"
+        else
+            echo "No 'map' file found in $dir"
+        fi
+        # Return to the parent directory
+        cd - > /dev/null || exit
+    fi
+done	

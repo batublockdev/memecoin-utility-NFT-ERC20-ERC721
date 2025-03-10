@@ -1,0 +1,19 @@
+ {
+    "name": "Condoto",
+    "description": "Condoto is known as the 'Platinum Capital of Colombia' due to its rich deposits of platinum and gold.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Condoto.jpg",
+    "attributes": [
+      {
+        "trait_type": "Population",
+        "value": "12,000 (approx.)"
+      },
+      {
+        "trait_type": "Founded",
+        "value": "1733"
+      },
+      {
+        "trait_type": "Landmark",
+        "value": "San Roque Church"
+      }
+    ]
+  }

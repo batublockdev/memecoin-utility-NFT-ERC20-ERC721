@@ -1,0 +1,19 @@
+{
+  "name": "Riosucio",
+  "description": "Riosucio is a municipality and town in the Chocó Department of Colombia, located in the Atrato River basin. It is known for its rich cultural heritage and proximity to the Atrato River.",
+  "image": "https://centralpdet.renovacionterritorio.gov.co/sites/default/files/2021-04/riosucio.jpg",
+  "attributes": [
+    {
+      "trait_type": "Population",
+      "value": "Approximately 28,832 (as of 2015)"
+    },
+    {
+      "trait_type": "Founded",
+      "value": "1518"
+    },
+    {
+      "trait_type": "Landmark",
+      "value": "Atrato River"
+    }
+  ]
+}
