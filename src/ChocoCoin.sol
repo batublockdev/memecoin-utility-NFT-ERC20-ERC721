@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 contract ChocoCoin is ERC20 {
     address public deployer;
 
-    constructor() ERC20("ChocoCoin", "CHCOIN") {
+    constructor() ERC20("ChocoCoin", "CHOCO") {
         deployer = msg.sender; // Stores the deployer's address
         _mint(msg.sender, 1_000_000 * 10 ** decimals());
     }

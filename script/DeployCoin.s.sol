@@ -10,8 +10,8 @@ import {console} from "forge-std/console.sol";
 contract DeployCoin is Script {
     function run() external returns (ChocoCoin) {
         vm.startBroadcast();
-        ChocoCoin moodNft = new ChocoCoin();
+        ChocoCoin coin = new ChocoCoin();
         vm.stopBroadcast();
-        return moodNft;
+        return coin;
     }
 }

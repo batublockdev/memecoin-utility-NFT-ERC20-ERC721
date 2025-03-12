@@ -103,7 +103,7 @@ contract DeployMoodNft is Script {
 
         vm.startBroadcast();
         ChocoCoin coin = new ChocoCoin();
-        ChocoNft chocoNft = new ChocoNft(_tokenURIs, address(coin), 1);
+        ChocoNft chocoNft = new ChocoNft(_tokenURIs, address(coin), 10);
         vm.stopBroadcast();
         return (chocoNft, coin);
     }
